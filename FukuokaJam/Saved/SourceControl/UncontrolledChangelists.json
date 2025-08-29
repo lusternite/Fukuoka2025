@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/Door/BP_DoorFrame.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/MI_GlowNT.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/JumpPad/Assets/NS_JumpPad.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/LevelPrototyping/Interactable/Target/BP_WobbleTarget.uasset"
+			]
+		}
+	]
+}
