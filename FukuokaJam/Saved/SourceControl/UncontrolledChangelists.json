@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Simon/GitHub/Fukuoka2025/FukuokaJam/Content/Input/IMC_Default.uasset",
+				"D:/Simon/GitHub/Fukuoka2025/FukuokaJam/Content/Input/Actions/IA_Sprint.uasset",
+				"D:/Simon/GitHub/Fukuoka2025/FukuokaJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/AnimatedObjects/Assets/Axe/SkeletalMeshes/Axe_Anim.uasset",
 				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/AnimatedObjects/Assets/Axe/SkeletalMeshes/Axe_PhysicsAsset.uasset",
 				"/Users/victorsteimberg/Documents/UnrealProjects/Fukuoka2025/FukuokaJam/Content/AnimatedObjects/Assets/Axe/SkeletalMeshes/Axe.uasset",
