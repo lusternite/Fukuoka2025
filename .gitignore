@@ -7,6 +7,13 @@
 *.o
 *.obj
 
+# Ignore Unreal user-specific config
+*.suo
+*.user
+*.userprefs
+*.log
+*.tlog
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -73,3 +80,32 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Build directories
+[Bb]uild/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Ignore backups
+*.bak
+*.tmp
+
+# Ignore autosaves
+*_Backup/*
+*_Autosaves/*
+
+# Ignore plugin intermediates
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# Ignore local configuration (but keep Default configs)
+Config/Default*.ini
+!Config/
+Config/*.ini
+!Config/Default*.ini
